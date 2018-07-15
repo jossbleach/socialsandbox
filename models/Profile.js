@@ -109,6 +109,9 @@ const ProfileSchema = new Schema({
     },
     instagram: {
       type: String
+    },
+    behance: {
+      type: String
     }
   },
   date: {
